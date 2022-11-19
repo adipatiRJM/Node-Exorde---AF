@@ -1,4 +1,4 @@
-# Tutorial testnet Exorde Airdrop Finder
+# Tutorial Node Exorde Airdrop Finder
 
 
 ## Referensi
